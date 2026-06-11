@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+body{
+    background-color: var(--cor-background);
+}
+
+:root {
+    --cor-primaria: #484872;
+    --cor-secundaria: #99b3c6;
+    --cor-hover: #6d9eff;
+    --cor-fundo: #4e546d;
+    --cor-background: #b7beff;
+    --cor-texto: #221831;
+    --cor-destaque: #3d2aec;
+}
